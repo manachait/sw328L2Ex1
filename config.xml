@@ -1,5 +1,5 @@
-<widget id="com.example.hello" version="0.0.1.2">
-        <name>HelloWorld</name>
+<widget id="com.example.jQueryMobileBasic" version="0.0.1.2">
+        <name>jQuery Mobile Basic</name>
         <description>
             A sample Apache Cordova application that responds to the deviceready event.
         </description>
